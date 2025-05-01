@@ -1,19 +1,13 @@
 # okko_mobile
 
-Dieses Repository enthält 3D-Zeichnungen für ein Mobile, das für Okko entworfen wurde. Das Projekt umfasst detaillierte Modelle und Designs, die die Struktur und Komponenten des Mobiles visualisieren.
-
-## Funktionen
-
-- Hochwertige 3D-Modelle.
-- Entworfen für einfache Visualisierung und Anpassung.
-- Kompatibel mit gängiger 3D-Modellierungssoftware.
+Dieses Repository enthält 3D-Zeichnungen für ein Mobile, das für Okkos Kind entworfen wird.
 
 ## Erste Schritte
 
 1. Klonen Sie das Repository:
-    ```bash
-    git clone https://github.com/yourusername/okko_mobile.git
-    ```
+   ```bash
+   git clone https://github.com/yourusername/okko_mobile.git
+   ```
 2. Öffnen Sie die 3D-Dateien in Ihrer bevorzugten Modellierungssoftware.
 
 ## Anforderungen
