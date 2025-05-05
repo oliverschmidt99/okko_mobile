@@ -14,6 +14,14 @@ Dieses Repository enthält 3D-Zeichnungen für ein Mobile, das für Okkos Kind e
 
 - Ein 3D-Modellierungswerkzeug wie Blender, AutoCAD oder Ähnliches.
 
+## Sachen
+- URI
+- Doppleringintegral
+- Cpp
+- Ic
+- Euler
+- 
+
 ## Lizenz
 
 Dieses Projekt ist unter der MIT-Lizenz lizenziert. Details finden Sie in der Datei `LICENSE`.
