@@ -19,6 +19,9 @@ Dieses Repository enthält 3D-Zeichnungen für ein Mobile, das für Okkos Kind e
 - Doppleringintegral
 - Cpp
 - Ic
+- Widerstand
+- Weltkugel
+- 
 - Euler
 - 
 
